@@ -12,6 +12,9 @@ flask = "==2.2.5"
 werkzeug = "==2.2.3"
 
 [dev-packages]
+black = "==22.3.0"
+pylint = "==2.13.9"
+pycodestyle = "==2.10.0"
 
 [requires]
 python_version = "3.11"
