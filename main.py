@@ -4,7 +4,7 @@ from flask import Flask, json, request, jsonify
 from pymongo import MongoClient
 from bson.objectid import ObjectId
 import bcrypt
-import jwt
+import jwt  # из PyJWT
 import datetime
 import uuid
 from dotenv import load_dotenv

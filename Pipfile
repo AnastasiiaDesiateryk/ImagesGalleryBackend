@@ -13,7 +13,7 @@ werkzeug = "==2.2.3"
 gunicorn = "*"
 pymongo = "*"
 bcrypt = "*"
-jwt = "*"
+PyJWT = "*"
 python-dotenv = "*"
 
 [dev-packages]
