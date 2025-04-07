@@ -10,6 +10,7 @@ itsdangerous = "<2.1"
 flask-cors = "==3.0.10"
 flask = "==2.2.5"
 werkzeug = "==2.2.3"
+gunicorn = "*"
 
 [dev-packages]
 black = "==22.3.0"

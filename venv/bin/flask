@@ -1,4 +1,4 @@
-#!/Users/giselle/Desktop/ImagesGallery/api/venv/bin/python3.11
+#!/Users/giselle/Desktop/ImagesGallery/api/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
